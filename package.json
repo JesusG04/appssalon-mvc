@@ -1,0 +1,29 @@
+{
+  "name": "app_salon",
+  "version": "1.0.0",
+  "description": "Administra las citas de un salon de belleza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp build"
+  },
+  "keywords": [
+    "MVC",
+    "SASS",
+    "GULP"
+  ],
+  "author": "Jesus Garcia Silva jesusarciasilva3@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "glob": "^11.0.0",
+    "gulp": "^5.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "path": "^0.12.7",
+    "sass": "^1.78.0",
+    "sharp": "^0.33.5"
+  }
+}
